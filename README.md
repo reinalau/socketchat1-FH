@@ -7,7 +7,7 @@ Solo representa la funcionalidad de socket: envio de mensajes y respuestas en ti
 ## 2-Clonar el repositorio ##
 
 ```
-git clone ...
+git clone https://github.com/reinalau/socketchat1-FH.git
 ```
 
 
@@ -21,6 +21,7 @@ npm install
 
 ## 4-Ejeución ##
 ```
+cd server
 node server.js
 ```
 

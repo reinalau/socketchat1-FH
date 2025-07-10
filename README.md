@@ -12,14 +12,14 @@ git clone https://github.com/reinalau/socketchat1-FH.git
 
 
 
-## 2-Recordar que deben de reconstruir los módulos de node con el comando ##
+## 2-Recordar que deben reconstruir los módulos de node con el comando ##
 
 
 ```
 npm install
 ```
 
-## 4-Ejeución ##
+## 4-Ejecución ##
 ```
 cd server
 node server.js

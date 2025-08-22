@@ -4,7 +4,7 @@ Este es un pequeño servidor de express listo para ejecutarse y servir la carpet
 Solo representa la funcionalidad de socket: envio de mensajes y respuestas en tiempo real.
 
 
-## 2-Clonar el repositorio ##
+## 1-Clonar el repositorio ##
 
 ```
 git clone https://github.com/reinalau/socketchat1-FH.git
@@ -19,13 +19,13 @@ git clone https://github.com/reinalau/socketchat1-FH.git
 npm install
 ```
 
-## 4-Ejecución ##
+## 3-Ejecución ##
 ```
 cd server
 node server.js
 ```
 
-## 5-Uso ##
+## 4-Uso ##
 
 Abrir 2 navegadores (puede ser Chrome y Edge). En uno loguearse con un alias en el chat y en el otro con otro alias. Luego intercambiar mensajes.
 

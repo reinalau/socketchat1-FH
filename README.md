@@ -29,3 +29,7 @@ node server.js
 
 Abrir 2 navegadores (puede ser Chrome y Edge). En uno loguearse con un alias en el chat y en el otro con otro alias. Luego intercambiar mensajes.
 
+
+📄 Licencia
+Este proyecto está bajo la licencia MIT.
+
